@@ -1,5 +1,5 @@
 body{
-    background-color:#ffffff;
+    background-color:#191616;
  }
  #topo{
      background-color:#472921;
@@ -15,8 +15,8 @@ body{
  .card{
     display:block;
     flex-direction: column;
-    width: 98%;
-    margin-left: auto;
+    width: 90%;
+    margin-left: 0px;
     margin-right: auto;
     border:solid 2px #ccced7;
     padding: 10px;
@@ -35,17 +35,31 @@ body{
 } */
 
 h1 {
-    color: rgb(67, 67, 160);
+    color: rgb(234, 234, 246);
     text-align: center;
 }
 h2 {
-    color: rgb(67, 67, 160);
+    color: rgb(234, 234, 246);
     text-align: center;
 }
 h3 {
-    color: rgb(67, 67, 160);
+    color: rgb(234, 234, 246);
     
 }
 h4 {
-    color: rgb(67, 67, 160);
+    color: rgb(234, 234, 246);
+}
+
+p{
+    color: rgb(234, 234, 246);
+}
+
+ul{
+    color: rgb(234, 234, 246);
+}
+li{
+    color: rgb(234, 234, 246);
+}
+a{
+    color: rgb(234, 234, 246);
 }
