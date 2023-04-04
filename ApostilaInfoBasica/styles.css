@@ -13,11 +13,22 @@ body{
      color: green;
  }
  .card{
-     width: 100%;
-     height: 200px;
-     border: solid 3px #F45326;
+    display:block;
+    flex-direction: column;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    border:solid 2px #ccced7;
+    padding: 10px;
+    text-align: center;
  }
- 
+ .card-body{
+    display:block;
+    word-wrap: break-word;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+ }
  /* img[src="Imagem\DFTechJpegFundoPretoTransparente.png"] {
     width: 2px;
     height: auto;
